@@ -7,3 +7,7 @@
 - 自动完成专题活动 `activity-auto-complete.js`
 
 用法：F12 && `autoComplete()`
+
+- 自动完成安全学习 `homework-auto-complete.js`
+
+用法：F12 && `doHomework()`
